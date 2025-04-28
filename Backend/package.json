@@ -6,8 +6,10 @@
         "start": "node server.js"
     },
     "dependencies": {
+        "body-parser": "^2.2.0",
         "cors": "^2.8.5",
-        "express": "^4.21.2"
+        "express": "^4.21.2",
+        "mongoose": "^8.14.0"
     },
     "keywords": [],
     "author": "",
