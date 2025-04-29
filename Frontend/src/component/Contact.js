@@ -139,7 +139,7 @@ const Contact = () => {
 
     try {
       // Directly using the deployed server's URL
-      await axios.post('https://portfolio-1-6okb.onrender.com/api/contact', formData);
+      await axios.post('https://portfolio-back-g1u8.onrender.com/api/contact', formData);
       setStatus('Message sent successfully!');
       setFormData({ name: '', email: '', message: '' });
       window.alert('Thank you for showing interest in my profile. Data saved successfully!');
