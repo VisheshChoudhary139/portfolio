@@ -49,7 +49,7 @@ const Home = () => {
             Every step I take, in life, is a step towards creating something truly special.
             </p>
             <motion.a
-            href = "https://drive.google.com/file/d/12PSbSvvGTKrPk70QNa2BRlAHAvOJ-hvE/view?usp=drive_link"
+            href = "https://drive.google.com/file/d/1e06DVgjdnrSznJXcOmXQOzW-fRLGx0hr/view?usp=sharing"
               className="resume-button"
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.95 }}
